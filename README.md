@@ -12,9 +12,9 @@ A hardware-based Smart Irrigation System that uses an Arduino microcontroller to
 ### 📸 Project Showcase
 **java GUI Screenshot:**
 
+<img width="1110" height="790" alt="Screenshot 2025-10-18 122339" src="https://github.com/user-attachments/assets/e1a20fc8-f0b8-4479-a864-36ed27822002" />
+
 <img width="998" height="597" alt="Screenshot 2025-10-18 122311" src="https://github.com/user-attachments/assets/5efa8e61-1906-49e2-996d-437832a4edbc" />
-<img width="1920" height="1200" alt="Screenshot 2025-10-18 122233" src="https://github.com/user-attachments/assets/604006d6-c681-4e48-8890-4904734c6304" />
-(This is the perfect place to add a photo of your assembled hardware circuit and a screenshot of your Java Swing application running!)
 
 ---
 
